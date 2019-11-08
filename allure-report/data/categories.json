@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Failed: Homepage.clickGo1 is not a function",
+      "children" : [ {
+        "name" : "subtraction test",
+        "uid" : "608380aeb8d95ce7",
+        "parentUid" : "cb254fe915e7f74c00c6342f0ef00dc7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1572941679682,
+          "stop" : 1572941679981,
+          "duration" : 299
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cb254fe915e7f74c00c6342f0ef00dc7"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

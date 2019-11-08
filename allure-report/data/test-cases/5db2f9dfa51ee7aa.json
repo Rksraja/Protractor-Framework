@@ -1,0 +1,60 @@
+{
+  "uid" : "5db2f9dfa51ee7aa",
+  "name" : "addition test",
+  "fullName" : "demo calculator tests.addition test",
+  "historyId" : "c43282cda311837b57905258eb98c7d3",
+  "time" : {
+    "start" : 1572937559335,
+    "stop" : 1572937567512,
+    "duration" : 8177
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "36e4b51a071ee430",
+      "name" : "Screenshot",
+      "source" : "36e4b51a071ee430.png",
+      "type" : "image/png",
+      "size" : 14174
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "demo calculator tests"
+  }, {
+    "name" : "testClass",
+    "value" : "demo calculator tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "addition test"
+  }, {
+    "name" : "package",
+    "value" : "demo calculator tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5db2f9dfa51ee7aa.json",
+  "parameterValues" : [ ]
+}
