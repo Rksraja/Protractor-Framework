@@ -91,7 +91,6 @@ exports.config = {
       platform = caps.get('platform');
 
       var HTMLReport = require('protractor-html-reporter-2');
-
       testConfig = {
         reportTitle: 'Protractor Test Execution Report',
         outputPath: './',
